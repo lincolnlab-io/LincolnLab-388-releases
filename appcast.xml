@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>LincolnLab-388</title>
+<item>
+<title>Version 0.0.2</title>
+<pubDate>Fri, 20 Nov 2026 04:10:25 +0000</pubDate>
+<sparkle:version>2</sparkle:version>
+<sparkle:shortVersionString>0.0.2</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+<description sparkle:format="markdown"># LincolnLab-388 0.0.2
+
+This is the first version that updates itself. From now on the app checks for a new version at launch and once a day, and LincolnLab-388 ▸ Check for Updates… checks right away. Nothing is installed until you click Install Update.
+
+## Sound and tape
+
+- **Tape motion:** the tape now speeds up and slows down like a real deck. PLAY glides up to pitch, STOP glides down as the tape coasts, and winds speed up and brake. A recording started from a stop begins only once the tape is up to speed.
+- **PITCH CONT works:** on VARI the knob changes the tape speed by ±15 %, so pitch and tempo change with it. FIX locks the speed.
+- **Tape hiss:** tracks with dbx off now have a little tape hiss while the tape rolls, as on the real unit. Turn it off with Audio ▸ Tape Hiss.
+- **Transport sounds:** the keys clunk, REC clicks its relay, and a wind with the TAPE LIFTER released has its hum. You hear these in the monitor only. They are never recorded.
+
+## Mixer
+
+- **AUX works:** the AUX sends, PRE/POST and MASTER AUX are live. Audio ▸ AUX Out sends the AUX buss to a spare output on your interface, for a cue mix or an outboard effect.
+- MONITOR/PHONES and METER now read the AUX and EFF positions.
+
+## Recording and reels
+
+- **File ▸ Import Audio…** puts an audio file onto a track, starting at the tape position. It has a gain field, and a stereo file takes two tracks.
+- REC FUNCTION and REPEAT are saved with the reel and come back as you left them.
+- The TAPE LIFTER now looks like the one on the unit and stays where you left it across launches.
+- A reel open in one copy of the app can no longer be opened in a second copy.
+- RTZ and STC now land on their spot even when you press them while the tape is already winding close to it.
+
+## Web Remote
+
+- **Remote ▸ Web Remote** lets a phone or iPad on the same network work the deck. Scan the QR code or open the link.
+- The TRANSPORT page has the counter, the memory and transport keys, the TAPE LIFTER and the MONITOR/PHONES LEVEL knob.
+- The MIXER page (made for an iPad on its side) has the channel strips, the master and monitor sections, REC FUNCTION, dbx and PITCH CONT, with live meters.
+- Anyone with the link can work the transport and the mixer, so share it only with people you trust.</description>
+<enclosure url="https://github.com/lincolnlab-io/LincolnLab-388-releases/releases/download/v0.0.2/LincolnLab-388-0.0.2.zip" length="73285389" type="application/octet-stream" sparkle:edSignature="Lb1oCVHwILnPjt0hWbgEdIUbc2Pg1IafiE7BmVvsM0O1ydkn98xEuUbSEtCscVh1UL0pq4QXV/uofoWyNwsvBQ=="></enclosure>
+</item>
+</channel>
+</rss><!-- sparkle-signatures:
+edSignature: LjDrgnXeOVecKSzdpPdICHivUd/ImB9QsSOsIL6MR7Vizd9w5loXc9NK/ighvH1A7Ne7gWyD1bSSim9R/nQ6Bg==
+length: 3330
+-->
