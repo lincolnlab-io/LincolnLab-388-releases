@@ -4,6 +4,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 <channel>
 <title>LincolnLab-388</title>
 <item>
+<title>Version 0.0.3</title>
+<pubDate>Fri, 20 Nov 2026 15:45:58 +0000</pubDate>
+<sparkle:version>3</sparkle:version>
+<sparkle:shortVersionString>0.0.3</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+<description sparkle:format="markdown">- **File ▸ New Reel** asks for the reel's name and where to keep it. The name starts as the date and time, ready to type over, and the folder starts where you made your last new reel. Cancel leaves the open reel as it was. A name already used in that folder is refused, never replaced.
+- **File ▸ Import Audio…** shows which tracks already hold audio where the file would land, with a red dot in the Destination menu, and starts on the first blank track. A new **Sum to Mono** switch puts a stereo file onto a single track.
+- **File ▸ Import Audio…** remembers your settings: the picker opens in the folder you last imported from, and the Gain starts where you last left it. The first time, the Gain starts at −10 dB instead of 0 dB.
+- **Help ▸ Release Notes** shows what changed in every version, including the one you are running, at any time. The notes come with the app, so nothing is downloaded.</description>
+<enclosure url="https://github.com/lincolnlab-io/LincolnLab-388-releases/releases/download/v0.0.3/LincolnLab-388-0.0.3.zip" length="73355511" type="application/octet-stream" sparkle:edSignature="CTJPK0BUzBX5d/CVBJ4Hq+0QlgOk/EPudo9+VgwE0/bj61kYYLJvZIUVUgRJRgqDqk9c1H41jVHZcbNrNfP+Cg=="></enclosure>
+</item>
+<item>
 <title>Version 0.0.2</title>
 <pubDate>Fri, 20 Nov 2026 04:10:25 +0000</pubDate>
 <sparkle:version>2</sparkle:version>
@@ -43,6 +55,6 @@ This is the first version that updates itself. From now on the app checks for a 
 </item>
 </channel>
 </rss><!-- sparkle-signatures:
-edSignature: LjDrgnXeOVecKSzdpPdICHivUd/ImB9QsSOsIL6MR7Vizd9w5loXc9NK/ighvH1A7Ne7gWyD1bSSim9R/nQ6Bg==
-length: 3330
+edSignature: GOUG31C6bj0Igp0eXm7DtWe/vYRlmnZL/KGQYxo10aOR4JLZGM7RSfWNHQc5zt9GRz4JPOZCKkXNr90xvS69CQ==
+length: 4857
 -->
