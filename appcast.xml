@@ -4,6 +4,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 <channel>
 <title>LincolnLab-388</title>
 <item>
+<title>Version 0.0.4</title>
+<pubDate>Sat, 21 Nov 2026 17:29:56 +0000</pubDate>
+<sparkle:version>4</sparkle:version>
+<sparkle:shortVersionString>0.0.4</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+<description sparkle:format="markdown">- **LincolnLab-388 ▸ About LincolnLab-388** shows the version number alone, without the build number in brackets.</description>
+<enclosure url="https://github.com/lincolnlab-io/LincolnLab-388-releases/releases/download/v0.0.4/LincolnLab-388-0.0.4.zip" length="73395354" type="application/octet-stream" sparkle:edSignature="b/SUxL6SguMs81Tw3I01ZRw2KHQ/+viRx96v3fVNMIZxQD13T3HZnsiXJsp2hvJjIssSZ0N5pxpTCYc6pZXxBg=="></enclosure>
+</item>
+<item>
 <title>Version 0.0.3</title>
 <pubDate>Fri, 20 Nov 2026 15:45:58 +0000</pubDate>
 <sparkle:version>3</sparkle:version>
@@ -55,6 +64,6 @@ This is the first version that updates itself. From now on the app checks for a 
 </item>
 </channel>
 </rss><!-- sparkle-signatures:
-edSignature: GOUG31C6bj0Igp0eXm7DtWe/vYRlmnZL/KGQYxo10aOR4JLZGM7RSfWNHQc5zt9GRz4JPOZCKkXNr90xvS69CQ==
-length: 4857
+edSignature: 81HPudWd3cAEMfS3IGKfZqqWbWsToiy/DlwSafSLS+qDYhXjgufnGg/9W0NHIs8LU8lQFyP4WPI2/s65BkTrBg==
+length: 5585
 -->
