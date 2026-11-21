@@ -4,6 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 <channel>
 <title>LincolnLab-388</title>
 <item>
+<title>Version 0.0.5</title>
+<pubDate>Sat, 21 Nov 2026 21:29:01 +0000</pubDate>
+<sparkle:version>5</sparkle:version>
+<sparkle:shortVersionString>0.0.5</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+<description sparkle:format="markdown">- **Overdubs land in time:** a part recorded while you listen to the tape now lands where you played it. Before, it landed late by two of your interface's buffers (about 21 ms at a 512-frame buffer). Parts recorded with an earlier version stay where they landed. The round trip shown under Audio is now the true, larger figure.
+- **The deck under the cover:** the head block is redrawn after the real unit, with its black top plate, polished heads and large capped rollers. The tape now shows as a ribbon and runs over the two big rollers either side of the heads.
+- **Meters:** the VU meters have a warm lamp behind them, as on the real unit.</description>
+<enclosure url="https://github.com/lincolnlab-io/LincolnLab-388-releases/releases/download/v0.0.5/LincolnLab-388-0.0.5.zip" length="73810935" type="application/octet-stream" sparkle:edSignature="2Gxz5cwgafK9pPQLCsG0avYoP40CwElI5Krw8IrqkUyTU1t/UmNyLpVMvRS96ZzSpTNG1wASIH7zHqZOUX9yBw=="></enclosure>
+</item>
+<item>
 <title>Version 0.0.4</title>
 <pubDate>Sat, 21 Nov 2026 17:29:56 +0000</pubDate>
 <sparkle:version>4</sparkle:version>
@@ -64,6 +75,6 @@ This is the first version that updates itself. From now on the app checks for a 
 </item>
 </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 81HPudWd3cAEMfS3IGKfZqqWbWsToiy/DlwSafSLS+qDYhXjgufnGg/9W0NHIs8LU8lQFyP4WPI2/s65BkTrBg==
-length: 5585
+edSignature: t1TwN0e5pdRQOBF+n/yrHjz1P0lye4FbmQ9tuIxNedZYJgFzB+JanJ5kifvz0PHr051YwEAAm63e3JNsJipVBQ==
+length: 6841
 -->
