@@ -4,6 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 <channel>
 <title>LincolnLab-388</title>
 <item>
+<title>Version 0.0.6</title>
+<pubDate>Tue, 24 Nov 2026 20:14:14 +0000</pubDate>
+<sparkle:version>6</sparkle:version>
+<sparkle:shortVersionString>0.0.6</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+<description sparkle:format="markdown">- **Audio ▸ Hiss Level** sets how loud the tape hiss is, with a slider you can drag while the tape plays. The hiss now starts 12 dB quieter than before; drag the slider to 0 dB for the old level.
+- **dbx:** the NR keys' tooltips and Help now explain why a take recorded with NR on plays louder and brighter with NR off. Nothing about the sound has changed.</description>
+<enclosure url="https://github.com/lincolnlab-io/LincolnLab-388-releases/releases/download/v0.0.6/LincolnLab-388-0.0.6.zip" length="73835459" type="application/octet-stream" sparkle:edSignature="i1IhNSKP/i07aglDtXONVVvkOsCZTGBBeoutiOoWwLQPStfsozQEeNDT1EEVkQfrhvbT2vsD6uxyMH8552eBCQ=="></enclosure>
+</item>
+<item>
 <title>Version 0.0.5</title>
 <pubDate>Sat, 21 Nov 2026 21:29:01 +0000</pubDate>
 <sparkle:version>5</sparkle:version>
@@ -75,6 +85,6 @@ This is the first version that updates itself. From now on the app checks for a 
 </item>
 </channel>
 </rss><!-- sparkle-signatures:
-edSignature: t1TwN0e5pdRQOBF+n/yrHjz1P0lye4FbmQ9tuIxNedZYJgFzB+JanJ5kifvz0PHr051YwEAAm63e3JNsJipVBQ==
-length: 6841
+edSignature: wO6XJsYCGGRzmOEwcDdUdm7xgq9DARZyTkM3AwHj8ywIvT/BxvcBIsJZqHpWwI6vnMWV2aa7xqXjHtX7KxVWAg==
+length: 7812
 -->
